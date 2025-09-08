@@ -155,7 +155,7 @@ class _AppcondominioState extends State<Appcondominio> {
         content:  Text('Saída Confirmada!',style: TextStyle(fontSize: 15, fontWeight: FontWeight.w600),
         ),
         backgroundColor: Colors.orange,
-        duration: const Duration(seconds: 3),
+        duration: const Duration(seconds: 2),
       ),
     );
 
