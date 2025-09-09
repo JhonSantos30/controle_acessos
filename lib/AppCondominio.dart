@@ -99,7 +99,7 @@ class _AppcondominioState extends State<Appcondominio> {
       SnackBar(
         content: const Text('Preencha os campos obrigatórios!',style: TextStyle(fontSize: 15, fontWeight: FontWeight.w600),),
         backgroundColor: Colors.red,
-        duration: const Duration(seconds:2),
+        duration: const Duration(seconds:10),
       ),
     );
 
